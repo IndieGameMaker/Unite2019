@@ -20,6 +20,7 @@
 
 ### 안드로이드 폰 빌드를 위한 체크 항목
 - 데이터 케이블 지참.
+- 유니티 에디터에 Android 빌드 모듈을 추가하셔야 합니다.
 - 안드로이드 폰에 빌드가 처음인 분들은 반드시 보유하고 있는 제조사(삼성,LG)의 홈페이지에서 "USB 통합드라이버"를 설치해주세요.(설치 후 반드시 제 부팅하셔야 합니다.)
 
 [삼성 갤럭시 폰 통합 USB드라이버 다운로드](https://local.sec.samsung.com/comLocal/support/down/kies_main.do?kind=usb)
@@ -31,7 +32,8 @@
   [설치과정 안내](https://github.com/IndieGameMaker/SWU01/blob/master/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C_%EB%B9%8C%EB%93%9C%EA%B3%BC%EC%A0%95.md)
 
 ### 아이폰 빌드를 위한 체크 항목
-- 데이터 케이블 지참
+- 데이터 케이블 지참.
+- 유니티 에디터에 iOS 빌드 모듈을 추가하셔야 합니다.
 - 맥북이 필요합니다.
-- 맥북에 XCode 컴파일러를 설치하셔야 합니다.
+- 맥북에 XCode 컴파일러(4Gb)를 설치하셔야 합니다.
 - 애플 개발자 계정을 생성하셔야 합니다.(무료 [계정등록](http://developer.apple.com))
