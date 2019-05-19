@@ -23,8 +23,9 @@
 - 유니티 에디터에 Android 빌드 모듈을 추가하셔야 합니다.
 - 안드로이드 폰에 빌드가 처음인 분들은 반드시 보유하고 있는 제조사(삼성,LG)의 홈페이지에서 "USB 통합드라이버"를 설치해주세요.(설치 후 반드시 제 부팅하셔야 합니다.)
 
-[삼성 갤럭시 폰 통합 USB드라이버 다운로드](https://local.sec.samsung.com/comLocal/support/down/kies_main.do?kind=usb)
-[LG 폰 통합 USB드라이버 다운로드](https://www.lge.co.kr/lgekor/download-center/downloadCenterList.do)
+   [삼성 갤럭시 폰 통합 USB드라이버 다운로드](https://local.sec.samsung.com/comLocal/support/down/kies_main.do?kind=usb)
+
+   [LG 폰 통합 USB드라이버 다운로드](https://www.lge.co.kr/lgekor/download-center/downloadCenterList.do)
 
 - 설치된 유니티가 2018버전 인 경우 가급적 2019버전을 설치하길 권장합니다.(2019버전은 Open JDK, Android SDK를 자체 설치할 수 있습니다.)
 - 꼭 2018버전의 유니티를 사용해야 하는 경우 반드시 SDK Manager를 설치한 후 본인의 안드로이드 폰의 SDK를 설치하셔야 합니다. 
