@@ -43,4 +43,4 @@
 # 최종 프로젝트 파일
 
 - 참석하신 모든 분들께 감사드립니다. 최종 프로젝트 파일을 올려놓았습니다.
-- [링크주소](https://1drv.ms/u/s!Asker0nVo1TSw_5jRRfL7Bgiy1rDCQ)
+- [ShadowGun 프로젝트 - 다운로드 링크](https://1drv.ms/u/s!Asker0nVo1TSw_5jRRfL7Bgiy1rDCQ)
